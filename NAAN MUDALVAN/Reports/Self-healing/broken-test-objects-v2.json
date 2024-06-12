@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/IISC/Page_Indian Institute of Science/strong_Dr Awadhesh Narayan",
+      "brokenLocator": "//div[@id\u003d\u0027em-event-2035460908\u0027]/p[6]/a/strong",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Dr Ved Vivek Datar\u0027])[1]/following::strong[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/IISC/Page_Indian Institute of Science/strong_Dr Awadhesh Narayan_neighbor.png"
+    }
+  ]
+}

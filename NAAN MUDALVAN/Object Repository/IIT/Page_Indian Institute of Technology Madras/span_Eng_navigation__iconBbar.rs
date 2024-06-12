@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Eng_navigation__iconBbar</name>
+   <tag></tag>
+   <elementGuidId>b4174099-9ab9-43e0-8305-2e421b469942</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Toggle Menu&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>16e72ec0-5939-4352-b406-940a8587ea83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navigation__iconBbar</value>
+      <webElementGuid>59ee3fd9-9bec-4e3c-b007-0e3c6ba79e47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js&quot;]/body[@class=&quot;frontpage node--type-landing-page page__loader&quot;]/div[@class=&quot;dialog-off-canvas-main-canvas&quot;]/header[@class=&quot;header&quot;]/div[@class=&quot;header__middlesec&quot;]/div[@class=&quot;container border__border&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-6 col-sm-3 col-lg-4&quot;]/a[@class=&quot;navigation__menuMobile hidden-lg&quot;]/span[@class=&quot;navigation__iconBbar&quot;]</value>
+      <webElementGuid>97245209-7477-4842-9d54-59a9a628d418</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span[2]</value>
+      <webElementGuid>091276c4-6d34-4bca-872f-c1ac36b1b08e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

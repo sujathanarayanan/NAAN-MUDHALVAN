@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_BS in Electronic Systems</name>
+   <tag></tag>
+   <elementGuidId>84f61202-d480-4a23-9d52-6a5d27c29186</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainContent']/div/div[3]/div[2]/div/div/p/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;BS in Electronic Systems&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>acd75aa6-c2b7-4d5a-927d-3ed9d378e51c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/es/</value>
+      <webElementGuid>456ac17b-4523-4216-ae85-e82347099509</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BS in Electronic Systems</value>
+      <webElementGuid>f772f659-6b0e-4a62-825b-4d242daa3da8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/div[@class=&quot;container-md  w-100 pt-1&quot;]/div[@class=&quot;card-deck justify-content-center mb-5 non-campus programs&quot;]/div[@class=&quot;card col-md-6 col-12 border-0 px-0&quot;]/div[@class=&quot;card-body apply_now--body&quot;]/div[1]/p[@class=&quot;text-primary font-weight-600 pt-0 pb-0 mb-0&quot;]/a[2]</value>
+      <webElementGuid>073ab29c-f97a-4ec0-b376-4a8efeed5dbb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContent']/div/div[3]/div[2]/div/div/p/a[2]</value>
+      <webElementGuid>08f10887-2e46-4ab8-b838-dad4f934c3d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'BS in Electronic Systems')]</value>
+      <webElementGuid>313e0c1e-0c5d-4cf8-af39-8cc505905244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Non-Campus Undergraduate Programs'])[1]/following::a[10]</value>
+      <webElementGuid>8d9b00f2-c918-44a9-9458-3d79df6f32ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BS in Electronic Systems']/parent::*</value>
+      <webElementGuid>ea36f69f-0fe9-4455-bba3-a8e530903978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/es/')])[5]</value>
+      <webElementGuid>c1653a17-4828-45da-930a-39c0347ae8d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/p/a[2]</value>
+      <webElementGuid>aca9aa8c-01ac-49bc-95f0-a6f32f3cac48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/es/' and (text() = 'BS in Electronic Systems' or . = 'BS in Electronic Systems')]</value>
+      <webElementGuid>da4e554b-37d0-4670-87bf-6f5144acae5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
